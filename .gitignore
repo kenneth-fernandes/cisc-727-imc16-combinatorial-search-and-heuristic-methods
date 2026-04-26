@@ -1,1 +1,11 @@
+.DS_Store
 knowledge/
+requirements/
+docs/src/report.aux
+docs/src/report.bbl
+docs/src/report.bcf
+docs/src/report.blg
+docs/src/report.log
+docs/src/report.out
+docs/src/report.run.xml
+docs/src/report.toc
